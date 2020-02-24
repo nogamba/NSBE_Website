@@ -575,6 +575,20 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
 }
 
+/* Demographics Section
+--------------------------------*/
+
+#demographs {
+  padding: 20px;
+  margin: auto;
+}
+
+#demographs img {
+  max-height: 17em;
+  max-width: 27em;
+
+}
+
 /* Facts Section
 --------------------------------*/
 
