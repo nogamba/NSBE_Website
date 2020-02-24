@@ -121,6 +121,7 @@ h6 {
 #header #logo img {
   padding: 0;
   margin: 0;
+  max-width: 8em;
 }
 
 #header.header-fixed {
@@ -137,7 +138,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg.jpg) top center;
+  background: url(../img/full_board.jpg) top center;
   background-size: cover;
   position: relative;
 }
@@ -494,8 +495,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about .about-container .background {
   min-height: 300px;
-  background: url(../img/about-img.jpg) center top no-repeat;
+  background: url(../img/logos/nsbe_logo.png) center top no-repeat;
   margin-bottom: 10px;
+  background-position: center;
+  background-size: contain;
 }
 
 #about .about-container .content {
