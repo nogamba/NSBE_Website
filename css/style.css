@@ -610,6 +610,19 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
 }
 
+/* Calendar Section
+--------------------------------*/
+
+#cal {
+  background: #f7f7f7;
+  padding: 80px 0 60px 0;
+  margin: auto;
+}
+
+#cal iframe{
+  margin: auto;
+}
+
 /* Services Section
 --------------------------------*/
 
