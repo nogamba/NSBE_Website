@@ -864,12 +864,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .pic img {
+  display: block;
   width: 100%;
-  height: 100%;
+  height: inherit;
   object-fit: cover;
-  image-orientation: from-image;
-  -webkit-transform:initial;
-transform:initial;
 }
 
 #team .member h4 {
