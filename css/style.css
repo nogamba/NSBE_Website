@@ -969,6 +969,17 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1));
 }
 
+/* Sponsor Section
+--------------------------------*/
+
+.sponsor {
+  display: inline;
+  max-width: 25%;
+  max-height: 15%;
+  width: auto;
+  height: auto;
+}
+
 /* Contact Section
 --------------------------------*/
 
