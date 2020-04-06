@@ -712,6 +712,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Call To Action Section
 --------------------------------*/
+#pics {
+  padding-bottom: 20px;
+}
+
+/* Call To Action Section
+--------------------------------*/
 
 #call-to-action {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/call-to-action-bg.jpg) fixed center center;
